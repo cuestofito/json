@@ -1,0 +1,19 @@
+{"productList": [
+    {
+    "name": "CocaCola",
+    "price": 0.5
+    },
+    {
+    "name":"Chocolate",
+    "price": 1.23
+    },
+     {
+    "name":"Pan",
+    "price": 1.56
+    },
+    {
+    "name":"Lechuga",
+    "price": 1.96
+    } 
+]
+}
