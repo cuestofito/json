@@ -6,6 +6,14 @@
         {
         "name":"Chocolate",
         "price": 1.23
+        },
+         {
+        "name":"Pan",
+        "price": 1.23
+        },
+        {
+        "name":"Lechuga",
+        "price": 1.23
         } 
     ]
 }
