@@ -1,5 +1,5 @@
 {
-    "turn": "Player 1 - X",
+    "turno": "Player 1 - X",
     "moves": 2,
     "values": [
         ["-","-","-"],
