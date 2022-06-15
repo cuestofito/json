@@ -1,5 +1,5 @@
 {
-    "turno": "PLAYERX",
+    "turno": "Jugador X",
     "moves": 2,
     "values": [
         ["X","-","-"],
